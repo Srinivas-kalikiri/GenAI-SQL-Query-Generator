@@ -81,6 +81,3 @@ Rohit      | Verma     | 92000.00
 - Cache the schema description instead of re-querying it on every run
 - A lightweight Flask/FastAPI wrapper for a browser-based UI
 - Export query results to CSV
-
-## License
-MIT
