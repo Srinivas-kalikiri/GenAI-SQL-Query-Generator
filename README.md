@@ -38,7 +38,7 @@ genai-sql-query-generator/
 
 1. Clone the repo and install dependencies:
    ```bash
-   git clone https://github.com/<your-username>/genai-sql-query-generator.git
+   git clone https://github.com/Srinivas-kalikiri/genai-sql-query-generator.git
    cd genai-sql-query-generator
    pip install -r requirements.txt
    ```
